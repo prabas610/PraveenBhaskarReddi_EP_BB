@@ -1,0 +1,140 @@
+
+/* Header Css Starts Here */
+
+    .navbar {
+        //background-color: #fff;
+        //border-color: transparent;
+        height: 100px;
+    }
+    .navbar .container-fluid {
+        background:  #0f0f0f;
+        padding-right: 115px;
+        padding-left: 115px;
+        height: 100px;
+        
+    }
+    .navbar-collapse {
+        padding-top: 25px;
+    }
+    .navbar-default .navbar-nav>li>a:hover{
+        color :#ff4c4c;
+    } 
+    .navbar-nav>li{
+        font-size: 130%;
+    }
+    .navbar-brand>h2{
+        text-transform: uppercase;
+        color: #ff4c4c;
+    } 
+    .modal-header-login,
+    .close {
+        background-color: #18a6f8;
+        color: white !important;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .modal-header-register,
+    .close {
+        background-color: #0f0f0f ;
+        color: white !important;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .modal-footer {
+        background-color: #f9f9f9;
+    }
+    
+    .modal-content {
+        min-height: 350px;
+    }
+    
+    .modal-content a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+
+/* Header Css Ends Here */
+
+#addblood{
+    padding: 100px;
+}
+#hospital_home{
+    padding: 120px;
+}
+#btns{
+    padding: 50px 20px;
+}
+#viewrequest{
+    padding: 120px;
+}
+
+#hospital_profile{
+    padding: 100px;
+}
+#receivers,#profile{
+    padding: 100px;
+}
+#available_blood{
+    padding: 120px;
+}
+#receivers_req{
+    padding: 120px;
+}
+#hp{
+    padding: 120px;
+}
+#home{
+    padding:10px 30px;
+}
+
+
+/*Scroll Bar*/
+
+ ::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+
+/*Scroll Bar*/
+/* === Footer Wrapper === */
+.footer-wrapper {
+    position: inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background: #1a1e23;
+    padding: 10px 0;
+    color: #fff;
+      
+}
+.copyright p {
+    margin: 0 auto;
+}
+
+.container{
+    padding :20px;
+}
+.btn{
+    padding: 5px 20px;
+  font-size: 22px;
+  line-height: normal;
+}
+#home{
+    font-size: 130%;
+    padding:10px 50px;
+}
+
+

@@ -1,0 +1,44 @@
+Goto Read me folder -> open image file to view setup instructions.
+
+Complete project snapshots -> Goto Read me foldel -> snapshots folder.
+I have arranged the snapshots in order for better understanding.
+
+login details:(Receivers)
+
+Email : ram@gmail.com
+Pass : ram@123
+
+Email : uday@gmail.com
+pass : uday@123
+
+Email: vineetha@gmail.com	
+pass: vineetha@123
+
+Email: vasavi@gmail.com
+pass : vasavi@123
+
+Email : sam@gmail.com
+pass : sam@123
+
+Email : mahesh@gmail.com
+pass : mahesh@123
+
+Email: geetha@gmail.com
+pass : geetha@123
+
+Email : priya@gmail.com
+pass : priya@123
+
+Login Details: (Hospitals)
+
+Email : abc@gmail.com
+pass : abc@123
+
+Email: care@gmail.com
+pass : care@123
+
+Email : apollo@gmail.com
+pass: apollo@123
+
+Email : kgh@gmail.com
+pass : kgh@123
